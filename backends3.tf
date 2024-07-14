@@ -1,4 +1,4 @@
-resource "aws_s3_bucket" "mybebucket" {
+/*resource "aws_s3_bucket" "mybebucket" {
     bucket = "s3backendaz41300"
     versioning {
       enabled = true
@@ -23,3 +23,4 @@ resource "aws_dynamodb_table" "staelockaz" {
     }
   
 }
+*/
